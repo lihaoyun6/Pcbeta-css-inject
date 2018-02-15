@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Pcbeta css注入
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/lihaoyun6/Pcbeta-css-inject
 // @version      0.1
 // @description  远景论坛CSS防挂注入
 // @author       lihaoyun6
